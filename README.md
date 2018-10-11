@@ -1,2 +1,2 @@
 # git_exercise.md
-walla
+You don't have to carry it with you.
