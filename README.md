@@ -1,2 +1,2 @@
 # git_exercise.md
-walla
+Hate is a burden.
